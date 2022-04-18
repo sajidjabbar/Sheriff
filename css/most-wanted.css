@@ -1,0 +1,88 @@
+.most-wanted-top-section{
+    padding-top: 80px;
+}
+.for-contactus-btn a {
+    padding: 12px 28px;
+    color: #FFFFFF;
+    background-color: #000000;
+    font-size: 19.5px;
+}
+.for-ny-crime-infformation p{
+    padding-left: 25px;
+    margin-bottom: 0px;
+    font-size: 26px;
+    font-family: "Montserrat-Medium";
+    color: #111111;
+}
+.wanted-list-start{
+    margin-top: 35px;
+    margin-bottom: 190px;
+}
+.wanted-man-img img{
+    width: 100%;
+}
+.call-for-crime p{
+    color: #6D6D6D;
+    font-family: "Montserrat-Medium";
+    font-size: 22px;
+}
+.two-information-of-criminal {
+    display: flex;
+    justify-content: space-between;
+}
+.single-wanted-info {
+    width: 45%;
+    display: flex;
+}
+.single-wanted-info-2 {
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+}
+.name-of-info {
+    width: 60px;
+}
+.single-wanted-info h6:not(:last-child) {
+    color: #000000;
+}
+.single-wanted-info h6:not(:first-child) {
+    color: #707070;
+}
+.single-wanted-info-2 h6:not(:last-child) {
+    color: #000000;
+}
+.single-wanted-info-2 h6:not(:first-child) {
+    color: #707070;
+}
+h6 {
+    font-family: "Montserrat-semibold";
+    font-size: 15px;
+}
+.single-wanted-info-2 h6 span {
+    font-family: "Montserrat-semibold" !important;
+    font-size: 15px !important;
+    color: #707070;
+}
+.name-of-info-on-rightside-2 {
+    width: 80px;
+}
+.alises-heading h6{
+    color: #000000;
+}
+.alises-para h6{
+    color: #707070;
+    padding-right: 15px;
+}
+.single-wanted-card-2{
+    margin-top: 52px;
+}
+@media screen and (max-width: 1200px) {
+    h6{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    h6{
+        font-size: 14px;
+    }
+}
