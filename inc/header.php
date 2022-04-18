@@ -6,7 +6,7 @@
             </div>
             <div class="navbar-items ml-auto">
                 <li class="normal-nav-items"><a href="index.php">Home</a></li>
-                <li class="normal-nav-items"><a href="">News Updates</a></li>
+                <li class="normal-nav-items"><a href="news.php">News Updates</a></li>
                 <li class="normal-nav-items"><a href="most-wanted.php">Most Wanted</a></li>
                 <li class="normal-nav-items"><a href="">Inmate Services</a></li>
                 <li class="normal-nav-items"><a href="">Career</a></li>
