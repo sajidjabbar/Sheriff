@@ -2,9 +2,6 @@
 <link rel="stylesheet" href="css/about.css">
 <!-- CSS End Here -->
 
-
-
-
 <!--  Start Here -->
 <section class="about-banner-section">
     <?php include 'inc/app.php'; ?>

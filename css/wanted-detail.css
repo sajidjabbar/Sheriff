@@ -1,0 +1,120 @@
+.most-wanted-top-section{
+    padding-top: 80px;
+}
+.for-contactus-btn a {
+    padding: 12px 28px;
+    color: #FFFFFF;
+    background-color: #000000;
+    font-size: 19.5px;
+}
+.for-ny-crime-infformation p{
+    padding-left: 25px;
+    margin-bottom: 0px;
+    font-size: 26px;
+    font-family: "Montserrat-Medium";
+    color: #111111;
+}
+.call-for-crime p{
+    color: #6D6D6D;
+    font-family: "Montserrat-Medium";
+    font-size: 22px;
+}
+.small-details-about-criminal{
+    margin-top: 105px;
+}
+.two-information-of-criminal {
+    display: flex;
+    justify-content: space-between;
+}
+.single-wanted-info {
+    width: 45%;
+    display: flex;
+}
+.for-the-some-detail-of-ccriminal{
+    width: 90%;
+}
+.name-of-criminal{
+    margin-bottom: 25px;
+}
+.name-of-criminal h3{
+    font-size: 28.5px;
+}
+.single-wanted-info-2 {
+    width: 55%;
+    display: flex;
+    /* justify-content: space-between; */
+}
+.name-of-info {
+    width: 60px;
+}
+.single-wanted-info h6:not(:last-child) {
+    color: #000000;
+}
+.single-wanted-info h6:not(:first-child) {
+    color: #707070;
+}
+.single-wanted-info-2 h6:not(:last-child) {
+    color: #000000;
+}
+.single-wanted-info-2 h6:not(:first-child) {
+    color: #707070;
+}
+h6 {
+    font-family: "Montserrat-semibold";
+    font-size: 15px;
+}
+.single-wanted-info-2 h6 span {
+    font-family: "Montserrat-semibold" !important;
+    font-size: 15px !important;
+    color: #707070;
+}
+.name-of-info-on-rightside-2 {
+    width: 80px;
+}
+
+.alises-heading h6{
+    color: #000000;
+}
+.alises-para span{
+    color: #707070;
+    padding-right: 15px;
+}
+.single-wanted-card-2{
+    margin-top: 52px;
+}
+@media screen and (max-width: 1200px) {
+    h6{
+        font-size: 14px;
+    }
+}
+
+.wanted-some-information{
+    margin-bottom: 120px;
+}
+.complete-detail-of-criminal {
+    margin-top: 25px;
+}
+.alises-para{
+    width: 75%;
+}
+.detail-para-of-criminal  p{
+    font-size: 19.4px;
+    color: #666666;
+}
+@media screen and (max-width: 991px) {
+    .alises-para{
+        width: 100%;
+    }
+    h1{
+        font-size: 35px;
+    }
+    .for-ny-crime-infformation p{
+        font-size: 20px;
+    }
+    .call-for-crime p{
+        font-size: 17px;
+    }
+    .for-the-some-detail-of-ccriminal{
+        width: 100% !important;
+    }
+}

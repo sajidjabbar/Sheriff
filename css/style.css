@@ -99,9 +99,15 @@ li.nav-link a {
   color: #fff;
   display: none;
 }
+.responsive-contact-btn{
+  display: none;
+}
 @media (max-width: 991px) {
   #header .nav {
     display: none;
+  }
+  .responsive-contact-btn{
+    display: initial;
   }
   .navbar-items{
     display: none !important;
@@ -154,6 +160,10 @@ li.nav-link a {
 @font-face {
   font-family: "popins-medium";
   src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url(../fonts/Poppins-Regular.ttf);
 }
 @font-face {
   font-family: "nunito-regular";
@@ -554,7 +564,7 @@ a:hover{
   height: 40px;
   background-color: #FFFFFF;
   border-radius: 5px;
-  border: 3px solid #E5E5E5;
+  border: 2px solid #E5E5E5;
   outline: none;
 }
 .for-single-input textarea{
@@ -563,7 +573,7 @@ a:hover{
   height: 150px;
   border-radius: 12px;
   background-color: #FFFFFF;
-  border: 3px solid #E5E5E5;
+  border: 2px solid #E5E5E5;
 }
 .attach-submit-btn{
   display: flex;
@@ -572,13 +582,15 @@ a:hover{
 .attach-submit-btn label span{
   padding: 8px 25px;
   background-color: #FFFFFF;
-  border: 3px solid #E5E5E5 ;
+  border: 2px solid #E5E5E5;
+  cursor: pointer;
 }
-.crime-submit-btn{
+.crime-submit-btn {
   background-color: black;
   padding: 7px 40px;
   color: #FFFFFF;
   font-size: 14px;
+  margin-top: -8px;
   margin-left: 35px;
 }
 
