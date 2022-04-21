@@ -1,0 +1,146 @@
+.about-banner-section {
+    background-image: url(../img/about-banner.png);
+    width: 100%;
+    height: 503px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.about-banner-text {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-section-text {
+    padding: 80px 5% 12px 5%;
+}
+
+.about-middle-para {
+    margin-top: 35px;
+}
+
+.single-text-para p {
+    color: #000000;
+    font-family: "Montserrat-Medium";
+    font-size: 16.2px;
+}
+
+.for-deposit-sevice {
+    padding: 00px 5% 90px 5%;
+}
+
+.service-deposit-heading h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.deposit-services-wraper {
+    margin-top: 78px;
+}
+
+.deposit-services-wraper {
+    width: 100%;
+}
+
+.deposit-services-services {
+    width: 85%;
+    margin-left: 3.5%;
+}
+
+.single-deposit-line {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.left-side-of-deposit-servise {
+    display: flex;
+    justify-content: space-between;
+    width: 26.5%;
+}
+
+.name-of-service span,
+.for-the-real-price-of-price span,
+.for-the-plus-sign span,
+.plus-your-service span,
+.total-service-price span {
+    color: #000000;
+    font-family: "Montserrat-Medium" !important;
+    font-size: 16.5px;
+}
+
+.for-large-service-heading span {
+    color: #000000;
+    font-family: "Montserrat-Bold" !important;
+    font-size: 16.5px;
+}
+
+.plus-your-service {
+    width: 53.5%;
+    text-align: center;
+}
+
+.for-space-in-lines-of-deposit {
+    width: 10%;
+}
+
+@media screen and (max-width: 1366px) {
+    .deposit-services-services {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .for-space-in-lines-of-deposit {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .left-side-of-deposit-servise {
+        width: 100%;
+    }
+
+    .for-deposit-sevice {
+        padding: 0px 25px 90px 25px;
+    }
+
+    .single-deposit-line {
+        display: unset;
+    }
+
+    .left-side-of-deposit-servise {
+        margin-top: 35px;
+        padding-top: 12px;
+        border-top: 1px solid #0f0f0f;
+    }
+
+    .plus-your-service {
+        width: 100%;
+        text-align: left;
+    }
+
+    .total-service-price {
+        width: 100%;
+        text-align: right;
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+    .name-of-service span,
+    .for-the-real-price-of-price span,
+    .for-the-plus-sign span,
+    .plus-your-service span,
+    .total-service-price span {
+        color: #000000;
+        font-family: "Montserrat-Medium" !important;
+        font-size: 9.5px;
+    }
+}
+
+.for-charged-mileage{
+    
+}

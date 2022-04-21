@@ -166,6 +166,10 @@ li.nav-link a {
   src: url(../fonts/Poppins-Regular.ttf);
 }
 @font-face {
+  font-family: "Poppins-light";
+  src: url(../fonts/Poppins-Light.ttf);
+}
+@font-face {
   font-family: "nunito-regular";
   src: url(../fonts/nunito/Nunito-Regular.ttf);
 }

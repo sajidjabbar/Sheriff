@@ -1,0 +1,237 @@
+.news-articles-heading {
+    background-color: #FFFFFF;
+}
+
+.news-top {
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.news-article-heading h1 {
+    font-family: "Montserrat-Bold";
+    color: #000000;
+    font-size: 45px;
+}
+
+.news-small-para p {
+    color: #6D6D6D;
+    font-size: 15px;
+    font-family: "Montserrat-Medium";
+}
+
+.for-bale-heading {
+    display: flex;
+    align-items: center;
+
+}
+.for-single-jobs:not(:first-child){
+    border-top: 1px solid #70707073;
+}
+.for-first-border{
+    border-top: 1px solid #707070;
+}
+.for-jobs-heading button {
+    background-color: #090909;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: "Montserrat-regular";
+    padding: 11px 42px;
+    border: 0px;
+    border-radius: 3px;
+}
+
+.recent-post-button {
+    padding-left: 40px;
+}
+
+.recent-post-button button {
+    background-color: transparent;
+    border: 0px;
+    color: #4D4D4D;
+    font-family: "Montserrat-regular";
+    font-size: 13px;
+}
+
+.single-line-start {
+    padding: 35px 0px;
+}
+
+.single-line-start {
+    display: flex;
+    align-items: center;
+}
+
+.the-jobs-description {
+    width: 45%;
+    border-right: 1px solid #E9E9E9;
+}
+
+.jobs-title-and-description {
+    width: 83%;
+}
+
+.jobs-title-and-description h6 {
+    color: #000000;
+    font-family: "popins-medium";
+    font-size: 18px;
+    margin-bottom: 3px !important;
+}
+
+.jobs-title-and-description p {
+    color: #000000;
+    font-size: 13px;
+    font-family: "Poppins-light";
+}
+
+.timing-coin-image {
+    width: 21px;
+}
+
+.job-salary-timing {
+    font-size: 16px;
+    font-family: "Poppins-Regular";
+    color: #636060;
+}
+
+.salary-and-timing {
+    display: flex;
+    width: 28%;
+    justify-content: space-between;
+    padding: 0px 18px;
+    height: 100%;
+}
+
+.view-details-aplly-now {
+    width: 27%;
+    padding-left: 35px;
+    height: 100%;
+    padding-top: 21px;
+    padding-bottom: 20px;
+    border-left: 1px solid #EDEDED;
+}
+.for-viewdetail-play-apply-btn{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.appley-now-btn a {
+    background-color: #090909;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: "Montserrat-regular";
+    padding: 11px 34px;
+    border: 0px;
+    border-radius: 3px;
+}
+
+.view-detail-btn button {
+    background-color: transparent;
+    border: 0px;
+    color: #4D4D4D;
+    font-family: "Montserrat-regular";
+    font-size: 13px;
+}
+.all-paginations{
+    padding-bottom: 130px;
+}
+.for-pagination{
+    display: flex;
+    justify-content: left;
+    margin-top: 60px;
+}
+.for-pagination .page-link{
+    color: #77838F;
+    font-size: 14px;
+    font-family: "nunito-regular";
+}
+.page-item{
+    margin: 0px 4px;
+}
+.page-link{
+    background-color: transparent;
+    border: 0px !important;
+}
+.page-link.active {
+    background-color: #FFFFFF;
+    color: #77838F;
+    border-radius: 0px !important;
+    border: 2px solid #000000 !important;
+}
+.arrows{
+    padding: 0px !important;
+}
+@media screen and (max-width:  1200px) {
+    .the-jobs-description{
+        width: 40%;
+    }
+    .jobs-title-and-description{
+        width: 95%;
+    }
+    .view-details-aplly-now{
+        padding-left: 5px;
+    }
+    .salary-and-timing{
+        width: 31%;
+    }
+    .view-details-aplly-now {
+        width: 29%;
+    }
+    .for-viewdetail-play-apply-btn{
+        justify-content: right;
+    }
+    .view-detail-btn{
+        margin-right: 14px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .salary-and-timing{
+        display: unset;
+    }
+    .Timing{
+        margin-bottom: 11px;
+    }
+    .for-viewdetail-play-apply-btn{
+        display: unset;
+        text-align: right;
+    }
+    .appley-now-btn{
+        margin-top: 12px;
+    }
+}
+@media screen and (max-width: 768px){
+    .single-line-start{
+        display: unset;
+    }
+    .for-single-jobs{
+        padding: 30px 0px;
+    }
+    .the-jobs-description{
+        border: unset;
+    }
+    .jobs-title-and-description{
+        width: 100%;
+    }
+    .view-details-aplly-now{
+        border: unset;
+        text-align: center;
+    }
+    .the-jobs-description{
+        width: 100%;
+    }
+    .salary-and-timing{
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        margin: 40px 0px 20px 0px;
+    }
+    .view-details-aplly-now{
+        width: 100%;
+        
+    }
+    .for-viewdetail-play-apply-btn{
+        display: flex;
+        justify-content: space-around;
+    }
+}

@@ -9,7 +9,7 @@
                 <li class="normal-nav-items"><a href="news.php">News Updates</a></li>
                 <li class="normal-nav-items"><a href="most-wanted.php">Most Wanted</a></li>
                 <li class="normal-nav-items"><a href="">Inmate Services</a></li>
-                <li class="normal-nav-items"><a href="">Career</a></li>
+                <li class="normal-nav-items"><a href="career.php">Career</a></li>
                 <li class="normal-nav-items"><a href="about.php">About Us</a></li>
                 <li class="normal-nav-items"><a href="">Report a crime</a></li>
                 <li class="for-contact-brn-header"><a href="contactus.php" class="btn">Contact Us</a></li>
@@ -39,7 +39,7 @@
             <li class="nav-link"><a class="text-black" href="">News Updates</a></li>
             <li class="nav-link"><a class="text-black" href="most-wanted.php">Most Wanted</a></li>
             <li class="nav-link"><a class="text-black" href="">Inmate Services</a></li>
-            <li class="nav-link"><a class="text-black" href="">Career</a></li>
+            <li class="nav-link"><a class="text-black" href="career.php">Career</a></li>
             <li class="nav-link"><a class="text-black" href="about.php">About Us</a></li>
             <li class="nav-link"><a class="text-black" href="">Report a crime</a></li>
         </ul>
