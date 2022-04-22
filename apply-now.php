@@ -175,4 +175,7 @@
     </div>
 </section>
 <!-- End Here -->
+
+<!-- Footer Included Here -->
 <?php include 'inc/footer.php'; ?>
+<!-- Page End Here -->

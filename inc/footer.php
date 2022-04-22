@@ -25,20 +25,20 @@
                             <h6>USEFUL LINKS</h6>
                         </div>
                         <ul class="mt-4">
-                            <li class="the-footer-links"><a href="">Civil Process </a></li>
-                            <li class="the-footer-links"><a href="">CCW Permits</a></li>
+                            <li class="the-footer-links"><a href="civil-process.php">Civil Process </a></li>
+                            <li class="the-footer-links"><a href="ccw-permits.php">CCW Permits</a></li>
                             <li class="the-footer-links"><a href="">Sex Offenders</a></li>
-                            <li class="the-footer-links"><a href="">Submit Crime Tip</a></li>
+                            <li class="the-footer-links"><a href="contactus.php">Submit Crime Tip</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="for-useful-links">
                         <ul class="links-without-heading">
-                            <li class="the-footer-links"><a href="">Other Fees</a></li>
-                            <li class="the-footer-links"><a href="">Request Report</a></li>
+                            <li class="the-footer-links"><a href="other-fees.php">Other Fees</a></li>
+                            <li class="the-footer-links"><a href="request-report.php">Request Report</a></li>
                             <li class="the-footer-links"><a href="">Sheriff Alerts</a></li>
-                            <li class="the-footer-links"><a href="">Contract Services</a></li>
+                            <li class="the-footer-links"><a href="contract-services.php">Contract Services</a></li>
                         </ul>
                     </div>
                 </div>

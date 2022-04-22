@@ -116,7 +116,7 @@
     justify-content: space-between;
     align-items: center;
 }
-.appley-now-btn a {
+.appley-now-btn button {
     background-color: #090909;
     color: #FFFFFF;
     font-size: 13px;

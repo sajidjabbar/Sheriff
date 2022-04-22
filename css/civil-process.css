@@ -104,7 +104,7 @@
     }
 
     .for-deposit-sevice {
-        padding: 0px 25px 90px 25px;
+        padding: 0px 25px 20px 25px;
     }
 
     .single-deposit-line {
@@ -141,6 +141,57 @@
     }
 }
 
-.for-charged-mileage{
-    
+.for-charged-mileage {
+    margin-top: 72px;
+}
+
+.for-charged-mileage h3 {
+    color: #000000;
+    font-size: 23.5px;
+    font-family: "Montserrat-semibold";
+    text-align: center;
+}
+@media screen and (max-width: 576px) {
+    .for-charged-mileage h3{
+        font-size: 16px;
+    }
+}
+.text-bettween-dashes {
+    padding: 80px 5% 12px 5%;
+}
+
+.content-in-dash {
+    border-top: 2px dashed #000000;
+    border-bottom: 2px dashed #000000;
+    padding: 35px 0px;
+}
+
+.content-in-dash p {
+    color: #000000;
+    font-family: "Montserrat-Medium";
+    font-size: 16px;
+}
+
+.text-in-last {
+    padding: 51px 5% 147px 5%;
+}
+.text-in-last-start p {
+    color: #000000;
+    font-size: 16.5px;
+    font-family: "Montserrat-Medium";
+}
+@media screen and (max-width: 576px) {
+    .text-bettween-dashes{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .content-in-dash p{
+        font-size: 13px;
+    }
+    .text-in-last{
+        padding-top: 3px;
+    }
+    .text-in-last-start p{
+        font-size: 13px;
+    }
 }

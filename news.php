@@ -34,7 +34,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -75,7 +75,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -116,7 +116,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -157,7 +157,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -198,7 +198,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -239,7 +239,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -280,7 +280,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -321,7 +321,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
@@ -362,7 +362,7 @@
                 <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
-                            <a href="">
+                            <a href="news-detail.php">
                                 <div class="the-blog-img">
                                     <div class="books-img">
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>

@@ -54,7 +54,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +87,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +120,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -147,7 +153,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -178,7 +186,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -209,7 +219,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -240,7 +252,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -271,7 +285,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -302,7 +318,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
-                                    <a href="apply-now.php">Apply Now</a>
+                                    <a href="apply-now.php">
+                                        <button>Apply Now</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -318,14 +336,16 @@
         <div class="for-pagination">
             <nav aria-label="Page navigation example">
                 <ul class="pagination">
-                    <li class="page-item"><a class="page-link arrows" href="#"><img src="img/left-angle.png" alt=""></a></li>
+                    <li class="page-item"><a class="page-link arrows" href="#"><img src="img/left-angle.png" alt=""></a>
+                    </li>
                     <li class="page-item"><a class="page-link active" href="#">1</a></li>
                     <li class="page-item"><a class="page-link" href="#">2</a></li>
                     <li class="page-item"><a class="page-link" href="#">3</a></li>
                     <li class="page-item"><a class="page-link" href="#">4</a></li>
                     <li class="page-item"><a class="page-link" href="#">5</a></li>
                     <li class="page-item"><a class="page-link" href="#">6</a></li>
-                    <li class="page-item"><a class="page-link arrows" href="#"><img src="img/right-angle.png" alt=""></a></li>
+                    <li class="page-item"><a class="page-link arrows" href="#"><img src="img/right-angle.png"
+                                alt=""></a></li>
 
                 </ul>
             </nav>

@@ -59,7 +59,7 @@
             <div class="images-in-adi-info mt-4">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4  ">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-1.png" class="img-fluid" alt="">
@@ -71,7 +71,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 ">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-2.png" class="img-fluid" alt="">
@@ -83,7 +83,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 ">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-3.png" class="img-fluid" alt="">
@@ -95,7 +95,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 ">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-4.png" class="img-fluid" alt="">
@@ -107,7 +107,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 ">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-5.png" class="img-fluid" alt="">
@@ -119,7 +119,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-6.png" class="img-fluid" alt="">
@@ -131,7 +131,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-7.png" class="img-fluid" alt="">
@@ -143,7 +143,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-8.png" class="img-fluid" alt="">
@@ -155,7 +155,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-9.png" class="img-fluid" alt="">
@@ -167,7 +167,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-10.png" class="img-fluid" alt="">
@@ -179,7 +179,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-11.png" class="img-fluid" alt="">
@@ -191,7 +191,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="">
+                        <a href="ccw-permits.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-12.png" class="img-fluid" alt="">

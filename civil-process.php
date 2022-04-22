@@ -147,5 +147,38 @@
         </div>
     </div>
 </section>
+<section class="text-bettween-dashes">
+    <div class="container-fluid">
+        <div class="content-in-dash text-center">
+            <p>
+                Sample fee calculation for a summons outside the City Limits of Clinton
+                <br>
+                $30.00 Service Deposit + $20.00 Mileage Deposit = $50.00
+            </p>
+        </div>
+    </div>
+</section>
+<section class="text-in-last">
+    <div class="container-fluid">
+        <div class="text-in-last-start">
+            <p class="mt-4">
+                Fees are due upon the receipt of the civil process including a mileage deposit of $20.00, if applicable.
+                Any balance due or refund will be billed or refunded when the service has been returned.
+            </p>
+            <p class="mt-4">
+                We will make a minimum of two attempts on all services unless the recipient has moved or is unknown at
+                the address given for the service. If time allows, we will attempt to obtain forwarding information from
+                the Post Office.
+            </p>
+            <p class="mt-4">
+                Additional attempts will be made to the new address , if it is in Henry County, otherwise the new
+                address information will be provided with the return.
+            </p>
+            <p class="mt-4">
+                Questions should be directed to 660-885-7300 during regular business hours.
+            </p>
+        </div>
+    </div>
+</section>
 <!-- End Here -->
 <?php include 'inc/footer.php'; ?>

@@ -31,7 +31,6 @@
         <div class="row">
             <div class="apply-form-start">
                 <div class="for-form-in-center">
-
                     <form action="">
                         <div class="card-body for-vox-shadow">
                             <div class="form-row">
