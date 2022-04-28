@@ -11,6 +11,7 @@
     <!-- Slick Slider CDN -->
 <script>
 
+
 $('.the-all-reviews-start').slick({
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -21,6 +22,54 @@ $('.the-all-reviews-start').slick({
     centralmode: true,
 
 });
+
+
+// $('.the-all-reviews-start').slick({
+//   dots: true,
+//   infinite: false,
+//   speed: 300,
+//   slidesToShow: 1,
+//   slidesToScroll: 4,
+//   responsive: [
+//     {
+//       breakpoint: 1024,
+//       settings: {
+//         slidesToShow: 1,
+//         slidesToScroll: 3,
+//         infinite: true,
+//         dots: true
+//       }
+//     },
+//     {
+//       breakpoint: 600,
+//       settings: {
+//         slidesToShow: 1,
+//         slidesToScroll: 2
+//       }
+//     },
+//     {
+//       breakpoint: 480,
+//       settings: {
+//         slidesToShow: 1,
+//         slidesToScroll: 1
+//       }
+//     }
+//     // You can unslick at a given breakpoint now by adding:
+//     // settings: "unslick"
+//     // instead of a settings object
+//   ]
+// });
+
+// $('.the-all-reviews-start').slick();
+
+// $('.the-all-reviews-start').slick({
+//   infinite: true,
+//   slidesToShow: 1,
+//   slidesToScroll: 3
+// });
+
+
+
     $(document).ready(function () {
         $(window).on('load', function(){
             $("#preloader").fadeOut(1000);

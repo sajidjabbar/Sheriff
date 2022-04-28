@@ -4,7 +4,7 @@
             <div class="for-logo">
                 <li><a href="index.php"><img src="img/logo.png" alt=""></a></li>
             </div>
-            <div class="navbar-items ml-auto">
+            <div class="navbar-items mr-auto">
                 <li class="normal-nav-items"><a href="index.php">Home</a></li>
                 <li class="normal-nav-items"><a href="news.php">News Updates</a></li>
                 <li class="normal-nav-items"><a href="most-wanted.php">Most Wanted</a></li>
@@ -12,7 +12,7 @@
                 <li class="normal-nav-items"><a href="career.php">Career</a></li>
                 <li class="normal-nav-items"><a href="about.php">About Us</a></li>
                 <li class="normal-nav-items"><a href="contactus.php">Report a crime</a></li>
-                <li class="for-contact-brn-header"><a href="contactus.php" class="btn">Contact Us</a></li>
+                <!-- <li class="for-contact-brn-header"><a href="contactus.php" class="btn">Contact Us</a></li> -->
             </div>
             <li class="for-contact-brn-header responsive-contact-btn"><a href="" class="btn">Contact Us</a></li>
         </ul>

@@ -7,16 +7,16 @@
     <?php include 'inc/app.php'; ?>
     <div class="container">
         <div class="about-banner-text">
-            <h1>CCW PERMITS</h1>
+            <h1>CIVIL PROCESS</h1>
         </div>
     </div>
 </section>
 <section class="about-section-text">
     <div class="container-fluid">
         <div class="text-in-about-us">
-            <div class="for-request-report">
+            <!-- <div class="for-request-report">
                 <h1>Request Report</h1>
-            </div>
+            </div> -->
             <div class="single-text-para mt-4">
                 <p>
                     On this page you are requesting a copy of a report that has already been filed with the Henry County
@@ -33,7 +33,7 @@
 <section class="for-deposit-sevice">
     <div class="container-fluid">
         <div class="all-service-deposit">
-            <div class="service-deposit-heading">
+            <div class="service-deposit-heading mt-3">
                 <h2>Deposits for service/non-est</h2>
             </div>
             <div class="deposit-services-wraper">

@@ -59,13 +59,13 @@
             <div class="images-in-adi-info mt-4">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4  ">
-                        <a href="ccw-permits.php">
+                        <a href="civil-process.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-1.png" class="img-fluid" alt="">
                                 </div>
                                 <div class="text-onadi-img text-center">
-                                    <p>Civil Process</p>
+                                    <p>CIVIL PROCESS</p>
                                 </div>
                             </div>
                         </a>
@@ -76,8 +76,8 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-2.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>CCW Pmits</p>
+                                <div class="text-onadi-img-2 px-5 text-center">
+                                    <p>CCW PMITS</p>
                                 </div>
                             </div>
                         </a>
@@ -89,7 +89,7 @@
                                     <img src="img/img-3.png" class="img-fluid" alt="">
                                 </div>
                                 <div class="text-onadi-img text-center">
-                                    <p>sex offender</p>
+                                    <p>SEX OFFENDER</p>
                                 </div>
                             </div>
                         </a>
@@ -100,20 +100,20 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-4.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2  text-center">
-                                    <p>Submit Crime Tip</p>
+                                <div class="text-onadi-img-2 px-3 text-center">
+                                    <p>SUBMIT CRIME TIP</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4 ">
-                        <a href="ccw-permits.php">
+                        <a href="other-fees.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-5.png" class="img-fluid" alt="">
                                 </div>
                                 <div class="text-onadi-img text-center">
-                                    <p>Other Fees</p>
+                                    <p class="choclate-heading">OTHER FEES</p>
                                 </div>
                             </div>
                         </a>
@@ -124,8 +124,8 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-6.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>Request Report</p>
+                                <div class="text-onadi-img-2 px-3 text-center">
+                                    <p>REQUEST REPORT</p>
                                 </div>
                             </div>
                         </a>
@@ -136,8 +136,8 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-7.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>Sheriff Alerts</p>
+                                <div class="text-onadi-img-2 px-4 text-center">
+                                    <p>SHERRIF ALERTS</p>
                                 </div>
                             </div>
                         </a>
@@ -148,20 +148,20 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-8.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>Sheriff Sales</p>
+                                <div class="text-onadi-img-2 px-4 text-center">
+                                    <p class="px-4">SHERRIF SALES</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 mt-4">
-                        <a href="ccw-permits.php">
+                        <a href="contract-services.php">
                             <div class="single-img-adi">
                                 <div class="for-adi-img">
                                     <img src="img/img-9.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>Contract Services</p>
+                                <div class="text-onadi-img-2 px-3 text-center">
+                                    <p>CONTRACT SERVICES</p>
                                 </div>
                             </div>
                         </a>
@@ -172,8 +172,8 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-10.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>current grants</p>
+                                <div class="text-onadi-img-2 px-3 text-center">
+                                    <p>CURRENT GRANTS</p>
                                 </div>
                             </div>
                         </a>
@@ -184,8 +184,8 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-11.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>Divisions</p>
+                                <div class="text-onadi-img-2 px-5 text-center">
+                                    <p class="px-3">DIVISIONS</p>
                                 </div>
                             </div>
                         </a>
@@ -196,8 +196,8 @@
                                 <div class="for-adi-img">
                                     <img src="img/img-12.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="text-onadi-img-2 text-center">
-                                    <p>Agency Staff</p>
+                                <div class="text-onadi-img-2 px-4 text-center">
+                                    <p class="px-3">AGENCY STAFF</p>
                                 </div>
                             </div>
                         </a>
@@ -255,29 +255,31 @@
         <div class="for-number-to-date-heading">
             <span>By the Numbers Year to Date</span>
         </div>
-        <div class="row">
-            <div class="col-md-3">
-                <div class="for-options-in-number-date">
-                    <p class="for-total-numbers mb-0">200</p>
-                    <p class="name-of-numbers">Reports Taken</p>
+        <div class="for-the-number-years">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="for-options-in-number-date">
+                        <p class="for-total-numbers mb-0">200</p>
+                        <p class="name-of-numbers">Reports Taken</p>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-3">
-                <div class="for-options-in-number-date">
-                    <p class="for-total-numbers mb-0">200</p>
-                    <p class="name-of-numbers">Calls for Service</p>
+                <div class="col-md-3">
+                    <div class="for-options-in-number-date">
+                        <p class="for-total-numbers mb-0">200</p>
+                        <p class="name-of-numbers">Calls for Service</p>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-3">
-                <div class="for-options-in-number-date">
-                    <p class="for-total-numbers mb-0">200</p>
-                    <p class="name-of-numbers">Civil Process <br> Received</p>
+                <div class="col-md-3">
+                    <div class="for-options-in-number-date">
+                        <p class="for-total-numbers mb-0">200</p>
+                        <p class="name-of-numbers">Civil Process <br> Received</p>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-3">
-                <div class="for-options-in-number-date">
-                    <p class="for-total-numbers mb-0">200</p>
-                    <p class="name-of-numbers">New Bookings</p>
+                <div class="col-md-3">
+                    <div class="for-options-in-number-date">
+                        <p class="for-total-numbers mb-0">200</p>
+                        <p class="name-of-numbers">New Bookings</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -375,7 +377,7 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
+                                <p class="mb-3">15 Comments</p>
                             </div>
                         </div>
                     </div>
@@ -384,7 +386,7 @@
                     <div class="single-card">
                         <div class="card-body text-center p-0">
                             <div class="img-in-news-card">
-                                <img src="img/news-1.png" class="img-fluid" alt="">
+                                <img src="img/blog-2.png" class="img-fluid" alt="">
                             </div>
                             <div class="top-in-new-card">
                                 <div class="for-date-in-news-card text-center">
@@ -392,12 +394,12 @@
                                     <span class="d-block">Aug</span>
                                 </div>
                                 <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
+                                    <p>Family law, Adultery</p>
                                 </div>
                             </div>
                             <div class="px-1">
                                 <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
+                                    <h6 class="blog-blue-color">Thousands Gather For Campaign Launch</h6>
                                 </div>
                                 <div class="for-para-in-card">
                                     <p>
@@ -409,7 +411,7 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
+                                <p class="mb-3">8 Comments</p>
                             </div>
                         </div>
                     </div>
@@ -418,7 +420,7 @@
                     <div class="single-card">
                         <div class="card-body text-center p-0">
                             <div class="img-in-news-card">
-                                <img src="img/news-1.png" class="img-fluid" alt="">
+                                <img src="img/blog-3.png" class="img-fluid" alt="">
                             </div>
                             <div class="top-in-new-card">
                                 <div class="for-date-in-news-card text-center">
@@ -426,12 +428,12 @@
                                     <span class="d-block">Aug</span>
                                 </div>
                                 <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
+                                    <p>Consumer law, Privacy</p>
                                 </div>
                             </div>
                             <div class="px-1">
                                 <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
+                                    <h6>Our Birth Rights and Inherent Dignity</h6>
                                 </div>
                                 <div class="for-para-in-card">
                                     <p>
@@ -443,7 +445,7 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
+                                <p class="mb-3">15 Comments</p>
                             </div>
                         </div>
                     </div>
@@ -455,7 +457,7 @@
         </div>
     </div>
 </section>
-<section class="map-section">
+<section class="map-section ">
     <div class="map-start">
         <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.4394624948313!2d66.99640441487912!3d24.84883595184336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e06f79533c3%3A0x688986c88631e98a!2sI.I%20Chundrigar%20Rd%2C%20Saddar%20Karachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e0!3m2!1sen!2s!4v1650019214115!5m2!1sen!2s"
@@ -491,7 +493,8 @@
                             </div>
                             <div class="attach-submit-btn mt-4">
                                 <label for="upload">
-                                    <span  class="btn"><img src="img/paperclip.png" alt=""> &nbsp;&nbsp;&nbsp; Attachments</span>
+                                    <span class="btn"><img src="img/paperclip.png" alt=""> &nbsp;&nbsp;&nbsp;
+                                        Attachments</span>
                                     <input type="file" name="" hidden id="upload">
                                 </label>
                                 <button type="submit" class="crime-submit-btn btn">Submit</button>

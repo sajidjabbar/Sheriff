@@ -56,13 +56,21 @@
                 <div class="col-md-4">
                     <div class="number-and-email">
                         <div class="for-call-in-contact">
-                            <a href="">
+                            <a href="tel: 660-885-7300">
                                 <span class="the-phone-icon"><i class="fa fa-phone"></i></span>
-                                <span class="phone-number">1-800-825-8477</span>
+                                <span class="phone-number">PH : 660-885-7300</span>    
                             </a>
                             <a href="">
-                                <span class="the-phone-icon"><i class="fa fa-envelope"></i></span>
-                                <span class="phone-number">1-800-825-8477</span>
+                                <span class="the-phone-icon"><i class="fa fa-phone" style="visibility: hidden;"></i></span>
+                                <span class="phone-number">FAX : 660-885-3173 </span>    
+                            </a>
+                            <a href="">
+                                <span class="the-phone-icon"><i class="fa fa-phone" style="visibility: hidden;"></i></span>
+                                <span class="phone-number">FAX : 660-885-4279</span>    
+                            </a>
+                            <a href="" class="mt-5">
+                                <span class="the-phone-icon"><i class="fa fa-map-marker"></i></span>
+                                <span class="phone-number">200 North Main St. <br> <span class="ml-4 px-1"> Clinton, Mo 64735</span></span>
                             </a>
                         </div>
                     </div>

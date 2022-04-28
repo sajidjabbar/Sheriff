@@ -162,7 +162,7 @@
                         <div class="for-submit-the-form">
                             <div class="for-terms-and-conditions">
                                 <input type="checkbox" name="" id="terms-conditions">
-                                <label for="terms-conditions" class="px-4">Proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</label>
+                                <label for="terms-conditions" class="px-3">Proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</label>
                             </div>
                             <div class="submit-the-form">
                                 <button type="submit">Submit</button>

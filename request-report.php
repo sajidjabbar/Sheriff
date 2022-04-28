@@ -7,7 +7,7 @@
     <?php include 'inc/app.php'; ?>
     <div class="container">
         <div class="about-banner-text">
-            <h1>CCW PERMITS</h1>
+            <h1>REQUEST REPORT</h1>
         </div>
     </div>
 </section>

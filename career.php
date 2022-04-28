@@ -9,10 +9,11 @@
     <div class="container">
         <div class="news-top">
             <div class="news-article-heading">
-                <h1>News & Articles</h1>
+                <h1>Find the Career Opportunity</h1>
             </div>
             <div class="news-small-para">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
             </div>
         </div>
     </div>
@@ -35,7 +36,7 @@
                             <div class="jobs-title-and-description">
                                 <h6>IT Manager</h6>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    incididunt ut labore et dolore magna aliqua. Ut enim</p>
                             </div>
                         </div>
                         <div class="salary-and-timing">
@@ -54,6 +55,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -87,6 +91,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -120,6 +127,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -153,6 +163,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -186,6 +199,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -219,6 +235,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -252,6 +271,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -285,6 +307,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -318,6 +343,9 @@
                                     <button>View Details</button>
                                 </div>
                                 <div class="appley-now-btn">
+                                    <div class="for-job-date">
+                                        <span>5 September 2021</span>
+                                    </div>
                                     <a href="apply-now.php">
                                         <button>Apply Now</button>
                                     </a>
@@ -344,11 +372,16 @@
                     <li class="page-item"><a class="page-link" href="#">4</a></li>
                     <li class="page-item"><a class="page-link" href="#">5</a></li>
                     <li class="page-item"><a class="page-link" href="#">6</a></li>
-                    <li class="page-item"><a class="page-link arrows" href="#"><img src="img/right-angle.png"
-                                alt=""></a></li>
-
+                    <li class="page-item">
+                        <a class="page-link arrows" href="#">
+                            <img src="img/right-angle.png" alt="">
+                        </a>
+                    </li>
                 </ul>
             </nav>
+        </div>
+        <div class="for-the-page-number">
+            <span>Result 1 - 15</span>
         </div>
     </div>
 </section>

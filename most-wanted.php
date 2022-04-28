@@ -45,8 +45,8 @@
                                         <h6 class="the-info">White</h6>
                                     </div>
                                     <div class="single-wanted-info-2">
-                                        <h6 class="name-of-info-on-rightside">Hair:</h6>
-                                        <h6 class="the-info-on-rightside">Brown</h6>
+                                        <h6 class="name-of-info-on-rightside">Hair:</h6>  &nbsp;&nbsp;
+                                        <h6 class="the-info-on-rightside"> Brown</h6>
                                     </div>
                                 </div>
                                 <div class="two-information-of-criminal">
@@ -74,7 +74,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -88,7 +88,7 @@
                         <div class="single-wanted-card mt-5 wow animate__animated animate__fadeInDown">
                             <div class="card-body">
                                 <div class="wanted-man-img">
-                                    <figure><img src="img/wanted-1.png" class="img-fluid" alt=""></figure>
+                                    <figure><img src="img/wanted-2.png" class="img-fluid" alt=""></figure>
                                 </div>
                                 <div class="name-of-criminal">
                                     <h6>Sam Hudson</h6>
@@ -128,7 +128,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -142,7 +142,7 @@
                         <div class="single-wanted-card mt-5 wow animate__animated animate__fadeInLeft ">
                             <div class="card-body">
                                 <div class="wanted-man-img">
-                                    <figure><img src="img/wanted-1.png" class="img-fluid" alt=""></figure>
+                                    <figure><img src="img/wanted-3.png" class="img-fluid" alt=""></figure>
                                 </div>
                                 <div class="name-of-criminal">
                                     <h6>Sam Hudson</h6>
@@ -182,7 +182,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -236,7 +236,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -290,7 +290,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -344,7 +344,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -398,7 +398,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -452,7 +452,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -506,7 +506,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -560,7 +560,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -614,7 +614,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -668,7 +668,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -722,7 +722,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>
@@ -776,7 +776,7 @@
                                     </div>
                                     <div class="alises-para">
                                         <h6>
-                                            FAIL TO APPEAR: COUNT 1 - BURG I/$100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
+                                            FAIL TO APPEAR: COUNT 1 - BURG I/ $100,000; AND COUNT 2 - THREATEN TO PERFORM ACT
                                             OF VIOLENCE/$10,000
                                         </h6>
                                     </div>

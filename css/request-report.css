@@ -1,9 +1,8 @@
 .about-banner-section {
     background-image: url(../img/about-banner.png);
     width: 100%;
-    height: 503px;
+    height: 413px;
     background-size: cover;
-    background-attachment: fixed;
 }
 
 .about-banner-text {
@@ -28,7 +27,7 @@
 
 .for-request-report h1 {
     color: #111111;
-    font-size: 31px;
+    font-size: 28px;
     font-family: "Montserrat-regular";
 
 }
@@ -195,6 +194,9 @@ label.form-control.upload-img.for-upload-the-img span {
     margin-bottom: 0px;
     font-family: "Montserrat-regular";
 }
+
+select.form-control
+
 
 .for-text-in-last p a {
     color: #111111;
