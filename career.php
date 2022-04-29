@@ -21,341 +21,683 @@
 <section class="recentjobs-alljobs">
     <div class="container">
         <div class="for-jobs-complete-table">
-            <div class="for-bale-heading">
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item for-bale-heading">
+                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">All Jobs</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Recent Jobs</a>
+                </li>
+            </ul>
+            <!-- <div class="for-bale-heading">
                 <div class="for-jobs-heading">
                     <button>All Jobs</button>
                 </div>
                 <div class="recent-post-button">
                     <button>Recent Jobs</button>
                 </div>
+            </div> -->
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <div class="for-all-tables">
+                        <div class="for-single-jobs for-first-border">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut enim</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <div class="for-all-tables">
+                        <div class="for-single-jobs for-first-border">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut enim</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="for-single-jobs">
+                            <div class="single-line-start">
+                                <div class="the-jobs-description">
+                                    <div class="jobs-title-and-description">
+                                        <h6>IT Manager</h6>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                    </div>
+                                </div>
+                                <div class="salary-and-timing">
+                                    <div class="Timing">
+                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">Full time</span>
+                                    </div>
+                                    <div class="salary">
+                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
+                                        <span class="job-salary-timing">$800/Month</span>
+                                    </div>
+                                </div>
+                                <div class="view-details-aplly-now">
+                                    <div class="for-viewdetail-play-apply-btn">
+                                        <div class="view-detail-btn">
+                                            <button>View Details</button>
+                                        </div>
+                                        <div class="appley-now-btn">
+                                            <div class="for-job-date">
+                                                <span>5 September 2021</span>
+                                            </div>
+                                            <a href="apply-now.php">
+                                                <button>Apply Now</button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="for-all-tables">
-                <div class="for-single-jobs for-first-border">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="for-single-jobs">
-                    <div class="single-line-start">
-                        <div class="the-jobs-description">
-                            <div class="jobs-title-and-description">
-                                <h6>IT Manager</h6>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut</p>
-                            </div>
-                        </div>
-                        <div class="salary-and-timing">
-                            <div class="Timing">
-                                <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">Full time</span>
-                            </div>
-                            <div class="salary">
-                                <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                <span class="job-salary-timing">$800/Month</span>
-                            </div>
-                        </div>
-                        <div class="view-details-aplly-now">
-                            <div class="for-viewdetail-play-apply-btn">
-                                <div class="view-detail-btn">
-                                    <button>View Details</button>
-                                </div>
-                                <div class="appley-now-btn">
-                                    <div class="for-job-date">
-                                        <span>5 September 2021</span>
-                                    </div>
-                                    <a href="apply-now.php">
-                                        <button>Apply Now</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-            </div>
+
+
         </div>
     </div>
 </section>

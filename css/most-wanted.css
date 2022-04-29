@@ -1,134 +1,142 @@
 .most-wanted-top-section {
-    padding-top: 80px;
+  padding-top: 80px;
 }
 
 .for-page-main-heading h1 {
-    font-size: 44px;
+  font-size: 44px;
 }
 
 .for-contactus-btn a {
-    padding: 12px 28px;
-    color: #FFFFFF;
-    background-color: #000000;
-    font-size: 19.5px;
+  padding: 12px 28px;
+  color: #ffffff;
+  background-color: #000000;
+  font-size: 19.5px;
 }
 
 .for-ny-crime-infformation p {
-    padding-left: 25px;
-    margin-bottom: 0px;
-    font-size: 26px;
-    font-family: "Montserrat-Medium";
-    color: #111111;
+  padding-left: 25px;
+  margin-bottom: 0px;
+  font-size: 26px;
+  font-family: "Montserrat-Medium";
+  color: #111111;
 }
 
 .wanted-list-start {
-    margin-top: 6px;
-    margin-bottom: 190px;
+  margin-top: 6px;
+  margin-bottom: 190px;
 }
 
 .wanted-man-img img {
-    width: 100%;
+  width: 100%;
 }
-
+.name-of-criminal h6 {
+  font-family: "Montserrat-Medium";
+  font-size: 27px;
+  color: #000;
+}
+.two-information-of-criminal h6.name-of-info {
+  font-weight: 600;
+}
+.name-of-criminal {
+  margin-bottom: 20px;
+}
 .call-for-crime p {
-    color: #6D6D6D;
-    font-family: "Montserrat-Medium";
-    font-size: 19px;
+  color: #6d6d6d;
+  font-family: "Montserrat-Medium";
+  font-size: 19px;
 }
 
 .two-information-of-criminal {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .single-wanted-info {
-    width: 45%;
-    display: flex;
+  width: 45%;
+  display: flex;
 }
 
 .single-wanted-info-2 {
-    width: 55%;
-    display: flex;
-
+  width: 55%;
+  display: flex;
 }
 
 .alises-para h6 {
-    font-family: 'Montserrat-regular';
+  font-family: "Montserrat-regular";
 }
 
 h6.the-info {
-    font-family: 'Montserrat-Medium';
+  font-family: "Montserrat-Medium";
 }
 
 .name-of-info {
-    width: 49px;
+  width: 49px;
 }
 
 .single-wanted-info h6:not(:last-child) {
-    color: #000000;
+  color: #000000;
 }
 
 .single-wanted-info h6:not(:first-child) {
-    color: #707070;
+  color: #707070;
 }
 
 .single-wanted-info-2 h6:not(:last-child) {
-    color: #000000;
+  color: #000000;
 }
 
 .single-wanted-info-2 h6:not(:first-child) {
-    color: #707070 !important;
-    margin-left: 6px;
-    font-family: 'Montserrat-Medium' !important;
-
+  color: #707070 !important;
+  margin-left: 6px;
+  font-family: "Montserrat-Medium" !important;
 }
 
 h6 {
-    font-family: "Montserrat-semibold";
-    font-size: 15px;
+  font-family: "Montserrat-semibold";
+  font-size: 15px;
 }
 
 .single-wanted-info-2 h6 span {
-    font-family: "Montserrat-semibold" !important;
-    font-size: 15px !important;
-    color: #707070;
+  font-family: "Montserrat-semibold" !important;
+  font-size: 15px !important;
+  color: #707070;
 }
 
 .name-of-info-on-rightside-2 {
-    width: 80px;
+  width: 80px;
 }
 
 .alises-heading h6 {
-    color: #000000;
+  color: #000000;
 }
 
 .alises-para h6 {
-    color: #707070;
-    padding-right: 15px;
-    font-family: 'Montserrat-regular';
+  color: #707070;
+  padding-right: 15px;
+  font-family: "Montserrat-regular";
 }
 
 .single-wanted-info-2 h6 {
-    color: #000000 !important;
+  color: #000000 !important;
 }
 
 .single-wanted-info-2 h6 span {
-    font-family: 'Montserrat-Medium' !important;
-    color: #707070;
+  font-family: "Montserrat-Medium" !important;
+  color: #707070;
 }
 
 .single-wanted-card-2 {
-    margin-top: 52px;
+  margin-top: 52px;
 }
 
 @media screen and (max-width: 1200px) {
-    h6 {
-        font-size: 14px;
-    }
+  h6 {
+    font-size: 14px;
+  }
 }
 
 @media screen and (max-width: 1200px) {
-    h6 {
-        font-size: 14px;
-    }
+  h6 {
+    font-size: 14px;
+  }
 }

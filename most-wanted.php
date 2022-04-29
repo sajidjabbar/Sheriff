@@ -20,7 +20,7 @@
                 <p>Give us a call (405) 123-4567 or send an anonymous tip to our investigators.</p>
             </div>
             <div class="for-contactus-btn text-center">
-                <a href="">Contact us</a>
+                <a href="contactus.php">Contact us</a>
             </div>
         </div>
     </div>

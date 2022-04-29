@@ -14,7 +14,7 @@
                 <li class="normal-nav-items"><a href="contactus.php">Report a crime</a></li>
                 <!-- <li class="for-contact-brn-header"><a href="contactus.php" class="btn">Contact Us</a></li> -->
             </div>
-            <li class="for-contact-brn-header responsive-contact-btn"><a href="" class="btn">Contact Us</a></li>
+            <li class="for-contact-brn-header responsive-contact-btn"><a href="contactus.php" class="btn">Contact Us</a></li>
         </ul>
     </div>
 </header>

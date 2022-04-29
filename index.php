@@ -1,4 +1,4 @@
-<?php include 'inc/app.php';?>
+<?php include 'inc/app.php'; ?>
 
 <!--  Start Here -->
 <section class="banner-section">
@@ -459,10 +459,7 @@
 </section>
 <section class="map-section ">
     <div class="map-start">
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.4394624948313!2d66.99640441487912!3d24.84883595184336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e06f79533c3%3A0x688986c88631e98a!2sI.I%20Chundrigar%20Rd%2C%20Saddar%20Karachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e0!3m2!1sen!2s!4v1650019214115!5m2!1sen!2s"
-            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section>
 <section class="submit-camp-trip">
@@ -502,6 +499,14 @@
                         </form>
                     </div>
                 </div>
+                <div class="col-md-4">
+                    <div class="info-wrapper">
+                        <ul>
+                            <li><a href="tel:18008258477"><i class="fa fa-phone"></i> 1-800-825-8477</a></li>
+                            <li><a href="mailto:rob170k9@gmail.com"><i class="fa fa-envelope"></i>  rob170k9@gmail.com</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -511,4 +516,4 @@
 
 
 <!-- End Here -->
-<?php include 'inc/footer.php';?>
+<?php include 'inc/footer.php'; ?>

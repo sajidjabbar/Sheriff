@@ -40,7 +40,7 @@
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
                                     </div>
                                     <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
+                                        <a href="news-detail.php" class="blog-read-more">READ MORE</a>
                                     </div>
                                 </div>
                             </a>

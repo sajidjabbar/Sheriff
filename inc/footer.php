@@ -37,7 +37,7 @@
                         <ul class="links-without-heading">
                             <li class="the-footer-links"><a href="other-fees.php">Other Fees</a></li>
                             <li class="the-footer-links"><a href="request-report.php">Request Report</a></li>
-                            <li class="the-footer-links"><a href="">Sheriff Alerts</a></li>
+                            <li class="the-footer-links"><a href="history.php">Sheriff Alerts</a></li>
                             <li class="the-footer-links"><a href="contract-services.php">Contract Services</a></li>
                         </ul>
                     </div>
