@@ -1,73 +1,74 @@
 .all-nav {
-    padding-top: 19px !important;
+  padding-top: 19px !important;
 }
 .all-normal-navs {
-    height: 62px !important;
+  height: 62px !important;
 }
 
 .for-logo li a img {
-    width: 131px;
+  width: 131px;
 }
 
 .contact-banner-section {
-    background-image: url(../img/contact-banner.png);
-    width: 100%;
-    height: 350px;
-    background-size: cover;
-    /* background-attachment: fixed; */
+  background-image: url(../img/contact-banner.png);
+  width: 100%;
+  height: 350px;
+  background-size: cover;
+  /* background-attachment: fixed; */
 }
 
-.contact-banner-text{
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.contact-banner-text {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.crime-report-start{
-    padding-top: 102px;
-    padding-bottom: 108px;
+.crime-report-start {
+  padding-top: 102px;
+  padding-bottom: 108px;
 }
-.contact-banner-text h1{
-    margin-top: -9%;
-    color: #FFFFFF;
+.contact-banner-text h1 {
+  margin-top: -9%;
+  color: #ffffff;
+  text-shadow: 1px 4px 5px #383838ad;
 }
-.crime-report-section{
-    background-color: #F2F2F2;
+.crime-report-section {
+  background-color: #f2f2f2;
 }
-.report-crime-heading h3{
-    color: #111111;
-    font-size: 28px;
+.report-crime-heading h3 {
+  color: #111111;
+  font-size: 28px;
 }
-.report-crime-heading p{
-    font-size: 20.5px;
-    color: #111111;
+.report-crime-heading p {
+  font-size: 20.5px;
+  color: #111111;
 }
-.report-crime-heading p::after{
-    content: "";
-    width: 93px;
-    height: 3px;
-    background-color: #CCCCCC;
-    display: block;
-    margin-top: 4px;
+.report-crime-heading p::after {
+  content: "";
+  width: 93px;
+  height: 3px;
+  background-color: #cccccc;
+  display: block;
+  margin-top: 4px;
 }
-.number-and-email{
-    margin-top: 30px;
+.number-and-email {
+  margin-top: 30px;
 }
-.the-phone-icon{
-    padding-right: 15px;
+.the-phone-icon {
+  padding-right: 15px;
 }
-.the-phone-icon i{
-    color: #333333;
+.the-phone-icon i {
+  color: #333333;
 }
-.phone-number{
-    color: #666666;
-    font-size: 16px;
+.phone-number {
+  color: #666666;
+  font-size: 16px;
 }
-.for-call-in-contact a{
-    display: block;
-    margin-top: 5px;
+.for-call-in-contact a {
+  display: block;
+  margin-top: 5px;
 }
 
-.google-map{
-    height: 650px;
+.google-map {
+  height: 650px;
 }

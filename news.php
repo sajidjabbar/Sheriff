@@ -108,7 +108,7 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-3">15 Comments</p>
+                                <p class="mb-3">8 Comments</p>
                             </div>
                         </div>
                     </div>
@@ -149,12 +149,12 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-3">15 Comments</p>
+                                <p class="mb-3">17 Comments</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12 mt-3">
+                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
                             <a href="news-detail.php">
@@ -163,7 +163,7 @@
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
                                     </div>
                                     <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
+                                        <a href="news-detail.php" class="blog-read-more">READ MORE</a>
                                     </div>
                                 </div>
                             </a>
@@ -195,7 +195,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12 mt-3">
+                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
                             <a href="news-detail.php">
@@ -231,12 +231,12 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-3">15 Comments</p>
+                                <p class="mb-3">8 Comments</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12 mt-3">
+                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
                             <a href="news-detail.php">
@@ -272,12 +272,12 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-3">15 Comments</p>
+                                <p class="mb-3">17 Comments</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12 mt-3">
+                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
                             <a href="news-detail.php">
@@ -286,7 +286,7 @@
                                         <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
                                     </div>
                                     <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
+                                        <a href="news-detail.php" class="blog-read-more">READ MORE</a>
                                     </div>
                                 </div>
                             </a>
@@ -318,7 +318,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12 mt-3">
+                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
                             <a href="news-detail.php">
@@ -354,12 +354,12 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-3">15 Comments</p>
+                                <p class="mb-3">8 Comments</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12 mt-3">
+                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
                     <div class="single-card mt-4">
                         <div class="card-body text-center p-0">
                             <a href="news-detail.php">
@@ -395,257 +395,11 @@
                             </div>
                             <hr class="the-hr">
                             <div class="for-comments text-center">
-                                <p class="mb-3">15 Comments</p>
+                                <p class="mb-3">17 Comments</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
-                    <div class="single-card mt-4">
-                        <div class="card-body text-center p-0">
-                            <a href="news-detail.php">
-                                <div class="the-blog-img">
-                                    <div class="books-img">
-                                        <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
-                                    </div>
-                                    <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="top-in-new-card">
-                                <div class="for-date-in-news-card text-center">
-                                    <span class="d-block">05</span>
-                                    <span class="d-block">Aug</span>
-                                </div>
-                                <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
-                                </div>
-                            </div>
-                            <div class="px-1">
-                                <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
-                                </div>
-                                <div class="for-para-in-card">
-                                    <p>
-                                        A un Angleso it va semblar un simplificat Angles, un skeptic dit es Cambridge
-                                        amico
-                                        dit Occidental es.
-                                    </p>
-                                </div>
-                            </div>
-                            <hr class="the-hr">
-                            <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
-                    <div class="single-card mt-4">
-                        <div class="card-body text-center p-0">
-                            <a href="news-detail.php">
-                                <div class="the-blog-img">
-                                    <div class="books-img">
-                                        <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
-                                    </div>
-                                    <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="top-in-new-card">
-                                <div class="for-date-in-news-card text-center">
-                                    <span class="d-block">05</span>
-                                    <span class="d-block">Aug</span>
-                                </div>
-                                <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
-                                </div>
-                            </div>
-                            <div class="px-1">
-                                <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
-                                </div>
-                                <div class="for-para-in-card">
-                                    <p>
-                                        A un Angleso it va semblar un simplificat Angles, un skeptic dit es Cambridge
-                                        amico
-                                        dit Occidental es.
-                                    </p>
-                                </div>
-                            </div>
-                            <hr class="the-hr">
-                            <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
-                    <div class="single-card mt-4">
-                        <div class="card-body text-center p-0">
-                            <a href="news-detail.php">
-                                <div class="the-blog-img">
-                                    <div class="books-img">
-                                        <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
-                                    </div>
-                                    <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="top-in-new-card">
-                                <div class="for-date-in-news-card text-center">
-                                    <span class="d-block">05</span>
-                                    <span class="d-block">Aug</span>
-                                </div>
-                                <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
-                                </div>
-                            </div>
-                            <div class="px-1">
-                                <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
-                                </div>
-                                <div class="for-para-in-card">
-                                    <p>
-                                        A un Angleso it va semblar un simplificat Angles, un skeptic dit es Cambridge
-                                        amico
-                                        dit Occidental es.
-                                    </p>
-                                </div>
-                            </div>
-                            <hr class="the-hr">
-                            <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
-                    <div class="single-card mt-4">
-                        <div class="card-body text-center p-0">
-                            <a href="news-detail.php">
-                                <div class="the-blog-img">
-                                    <div class="books-img">
-                                        <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
-                                    </div>
-                                    <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="top-in-new-card">
-                                <div class="for-date-in-news-card text-center">
-                                    <span class="d-block">05</span>
-                                    <span class="d-block">Aug</span>
-                                </div>
-                                <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
-                                </div>
-                            </div>
-                            <div class="px-1">
-                                <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
-                                </div>
-                                <div class="for-para-in-card">
-                                    <p>
-                                        A un Angleso it va semblar un simplificat Angles, un skeptic dit es Cambridge
-                                        amico
-                                        dit Occidental es.
-                                    </p>
-                                </div>
-                            </div>
-                            <hr class="the-hr">
-                            <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
-                    <div class="single-card mt-4">
-                        <div class="card-body text-center p-0">
-                            <a href="news-detail.php">
-                                <div class="the-blog-img">
-                                    <div class="books-img">
-                                        <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
-                                    </div>
-                                    <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="top-in-new-card">
-                                <div class="for-date-in-news-card text-center">
-                                    <span class="d-block">05</span>
-                                    <span class="d-block">Aug</span>
-                                </div>
-                                <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
-                                </div>
-                            </div>
-                            <div class="px-1">
-                                <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
-                                </div>
-                                <div class="for-para-in-card">
-                                    <p>
-                                        A un Angleso it va semblar un simplificat Angles, un skeptic dit es Cambridge
-                                        amico
-                                        dit Occidental es.
-                                    </p>
-                                </div>
-                            </div>
-                            <hr class="the-hr">
-                            <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4  col-md-6 col-sm-12 col-xs-12">
-                    <div class="single-card mt-4">
-                        <div class="card-body text-center p-0">
-                            <a href="news-detail.php">
-                                <div class="the-blog-img">
-                                    <div class="books-img">
-                                        <figure><img src="img/news-1.png" class="img-fluid book-image" alt=""></figure>
-                                    </div>
-                                    <div class="content-img">
-                                        <a href="" class="blog-read-more">READ MORE</a>
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="top-in-new-card">
-                                <div class="for-date-in-news-card text-center">
-                                    <span class="d-block">05</span>
-                                    <span class="d-block">Aug</span>
-                                </div>
-                                <div class="content-in-card">
-                                    <p>Criminal law, Kidnapping</p>
-                                </div>
-                            </div>
-                            <div class="px-1">
-                                <div class="for-small-news-card-heading">
-                                    <h6>Henry County Sheriff’s Office</h6>
-                                </div>
-                                <div class="for-para-in-card">
-                                    <p>
-                                        A un Angleso it va semblar un simplificat Angles, un skeptic dit es Cambridge
-                                        amico
-                                        dit Occidental es.
-                                    </p>
-                                </div>
-                            </div>
-                            <hr class="the-hr">
-                            <div class="for-comments text-center">
-                                <p class="mb-2">15 Comments</p>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </div>
             <div class="for-pagination">
                 <nav aria-label="Page navigation example">

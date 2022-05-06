@@ -17,14 +17,14 @@
                         <figure><img src="img/sloder.png" class="img-fluid book-image" alt=""></figure>
                     </div>
                     <div class="content-img">
-                        <h3 class="text-center">Our vision</h3>
-                        <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-                            commodo lacus. Nunc sodales posuere maximus. Curabitur ullamcorper imperdiet tincidunt.
-                            Morbi felis metus, euismod eu erat sed
-                            <br>
-                            <br>
-                            Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. In hac habitasse platea
-                            dictumst vestibulum rhoncus.
+                        <h3 class="text-center">James Kent Oberkrom</h3>
+                        <p class="text-center">
+                            Welcome to the Henry County Missouri Sheriff's Office website. We are pleased to
+                            provide this service to the citizens of Henry County. I am certainly been blessed to
+                            have served as your elected Sheriff since January 1,1997. During my tenure, we have made great efforts to modernize the Office of Sheriff including the building
+                            of new Detention Center in 2010. As technology continues to grow and expand, we must keep pace with the latest and greatest crime fighting tools within our budget. Transparency is one of our most important themes here as we continue to build on the trust the public has placed on us.Our doors are always open and we
+                            welcome feedback about our operations including this website. MayGod bless you as we work together to make Henry County a safe place to live and work. Sheriff J.
+                            Kent Oberkrom.
                         </p>
                     </div>
                 </div>
@@ -503,7 +503,7 @@
                     <div class="info-wrapper">
                         <ul>
                             <li><a href="tel:18008258477"><i class="fa fa-phone"></i> 1-800-825-8477</a></li>
-                            <li><a href="mailto:rob170k9@gmail.com"><i class="fa fa-envelope"></i>  rob170k9@gmail.com</a></li>
+                            <li><a href="mailto:rob170k9@gmail.com"><i class="fa fa-envelope"></i> rob170k9@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
@@ -511,9 +511,5 @@
         </div>
     </div>
 </section>
-
-
-
-
 <!-- End Here -->
 <?php include 'inc/footer.php'; ?>

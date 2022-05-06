@@ -71,18 +71,19 @@
                                             <a href="apply-now.php">
                                                 <button>Apply Now</button>
                                             </a>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="for-single-jobs">
+                        <div class="for-single-jobs ">
                             <div class="single-line-start">
                                 <div class="the-jobs-description">
                                     <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
+                                        <h6>Senior Manager</h6>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                            incididunt ut labore et dolore magna aliqua. Ut enim</p>
                                     </div>
                                 </div>
                                 <div class="salary-and-timing">
@@ -107,18 +108,19 @@
                                             <a href="apply-now.php">
                                                 <button>Apply Now</button>
                                             </a>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="for-single-jobs">
+                        <div class="for-single-jobs ">
                             <div class="single-line-start">
                                 <div class="the-jobs-description">
                                     <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
+                                        <h6>Senior Manager</h6>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                            incididunt ut labore et dolore magna aliqua. Ut enim</p>
                                     </div>
                                 </div>
                                 <div class="salary-and-timing">
@@ -143,18 +145,19 @@
                                             <a href="apply-now.php">
                                                 <button>Apply Now</button>
                                             </a>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="for-single-jobs">
+                        <div class="for-single-jobs ">
                             <div class="single-line-start">
                                 <div class="the-jobs-description">
                                     <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
+                                        <h6>Senior Manager</h6>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                            incididunt ut labore et dolore magna aliqua. Ut enim</p>
                                     </div>
                                 </div>
                                 <div class="salary-and-timing">
@@ -179,18 +182,19 @@
                                             <a href="apply-now.php">
                                                 <button>Apply Now</button>
                                             </a>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="for-single-jobs">
+                        <div class="for-single-jobs ">
                             <div class="single-line-start">
                                 <div class="the-jobs-description">
                                     <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
+                                        <h6>Senior Manager</h6>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                            incididunt ut labore et dolore magna aliqua. Ut enim</p>
                                     </div>
                                 </div>
                                 <div class="salary-and-timing">
@@ -215,18 +219,19 @@
                                             <a href="apply-now.php">
                                                 <button>Apply Now</button>
                                             </a>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="for-single-jobs">
+                        <div class="for-single-jobs ">
                             <div class="single-line-start">
                                 <div class="the-jobs-description">
                                     <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
+                                        <h6>Senior Manager</h6>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
+                                            incididunt ut labore et dolore magna aliqua. Ut enim</p>
                                     </div>
                                 </div>
                                 <div class="salary-and-timing">
@@ -251,114 +256,7 @@
                                             <a href="apply-now.php">
                                                 <button>Apply Now</button>
                                             </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="for-single-jobs">
-                            <div class="single-line-start">
-                                <div class="the-jobs-description">
-                                    <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
-                                    </div>
-                                </div>
-                                <div class="salary-and-timing">
-                                    <div class="Timing">
-                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                        <span class="job-salary-timing">Full time</span>
-                                    </div>
-                                    <div class="salary">
-                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                        <span class="job-salary-timing">$800/Month</span>
-                                    </div>
-                                </div>
-                                <div class="view-details-aplly-now">
-                                    <div class="for-viewdetail-play-apply-btn">
-                                        <div class="view-detail-btn">
-                                            <button>View Details</button>
-                                        </div>
-                                        <div class="appley-now-btn">
-                                            <div class="for-job-date">
-                                                <span>5 September 2021</span>
-                                            </div>
-                                            <a href="apply-now.php">
-                                                <button>Apply Now</button>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="for-single-jobs">
-                            <div class="single-line-start">
-                                <div class="the-jobs-description">
-                                    <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
-                                    </div>
-                                </div>
-                                <div class="salary-and-timing">
-                                    <div class="Timing">
-                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                        <span class="job-salary-timing">Full time</span>
-                                    </div>
-                                    <div class="salary">
-                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                        <span class="job-salary-timing">$800/Month</span>
-                                    </div>
-                                </div>
-                                <div class="view-details-aplly-now">
-                                    <div class="for-viewdetail-play-apply-btn">
-                                        <div class="view-detail-btn">
-                                            <button>View Details</button>
-                                        </div>
-                                        <div class="appley-now-btn">
-                                            <div class="for-job-date">
-                                                <span>5 September 2021</span>
-                                            </div>
-                                            <a href="apply-now.php">
-                                                <button>Apply Now</button>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="for-single-jobs">
-                            <div class="single-line-start">
-                                <div class="the-jobs-description">
-                                    <div class="jobs-title-and-description">
-                                        <h6>IT Manager</h6>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut</p>
-                                    </div>
-                                </div>
-                                <div class="salary-and-timing">
-                                    <div class="Timing">
-                                        <i><img src="img/timing.png" class="timing-coin-image" alt=""></i>
-                                        <span class="job-salary-timing">Full time</span>
-                                    </div>
-                                    <div class="salary">
-                                        <i><img src="img/coin.png" class="timing-coin-image" alt=""></i>
-                                        <span class="job-salary-timing">$800/Month</span>
-                                    </div>
-                                </div>
-                                <div class="view-details-aplly-now">
-                                    <div class="for-viewdetail-play-apply-btn">
-                                        <div class="view-detail-btn">
-                                            <button>View Details</button>
-                                        </div>
-                                        <div class="appley-now-btn">
-                                            <div class="for-job-date">
-                                                <span>5 September 2021</span>
-                                            </div>
-                                            <a href="apply-now.php">
-                                                <button>Apply Now</button>
-                                            </a>
+
                                         </div>
                                     </div>
                                 </div>
@@ -708,8 +606,8 @@
                 <ul class="pagination">
                     <li class="page-item"><a class="page-link arrows" href="#"><img src="img/left-angle.png" alt=""></a>
                     </li>
-                    <li class="page-item"><a class="page-link active" href="#">1</a></li>
-                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link active" href="#">2</a></li>
                     <li class="page-item"><a class="page-link" href="#">3</a></li>
                     <li class="page-item"><a class="page-link" href="#">4</a></li>
                     <li class="page-item"><a class="page-link" href="#">5</a></li>

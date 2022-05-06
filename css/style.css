@@ -105,6 +105,14 @@ li.nav-link a {
   padding: 0 20px;
 }
 
+.all-nav li.for-contact-brn-header button.btn {
+  font-family: "Montserrat-Medium";
+  font-size: 15px;
+  font-weight: 800;
+  border-radius: 0px;
+  padding: 9px 23px;
+}
+
 #header .canvas-icon i {
   font-size: 24px;
   background: #000000;
@@ -118,6 +126,56 @@ li.nav-link a {
   padding: 9px 33px !important;
 }
 
+header .contact-form-dropdown-wrapper {
+  position: absolute;
+  width: 325px;
+  left: -146%;
+  background: #fff;
+  padding: 23px;
+  top: 131%;
+  z-index: 9;
+}
+header li.for-contact-brn-header {
+  position: relative;
+}
+header .contact-form-dropdown-wrapper input {
+  border-radius: 0px;
+  border: 1px solid #c3cad9;
+  background: #f3f3f3;
+  font-family: "Montserrat-Medium";
+  font-size: 15px;
+}
+header .contact-form-dropdown-wrapper input::placeholder {
+  color: #959ead;
+}
+header .contact-form-dropdown-wrapper textarea {
+  border-radius: 0px;
+  border: 1px solid #c3cad9;
+  background: #f3f3f3;
+  font-family: "Montserrat-Medium";
+  font-size: 15px;
+}
+header .contact-form-dropdown-wrapper textarea::placeholder {
+  color: #959ead;
+}
+header .contact-form-dropdown-wrapper button {
+  background: #000000;
+  color: #fff;
+  font-size: 16px;
+  font-family: "Montserrat-regular" !important;
+}
+.contact-form-dropdown-wrapper a {
+  font-size: 12px;
+  padding: 0px !important;
+  text-decoration: underline;
+  color: #000;
+}
+.contact-form-dropdown-wrapper .form-group:last-child {
+  margin-bottom: 0px !important;
+}
+.contact-form-dropdown-wrapper form {
+  margin-bottom: 0px;
+}
 @media (max-width: 991px) {
   #header .nav {
     display: none;
@@ -404,11 +462,10 @@ li {
   color: #ffffff;
   font-family: "Montserrat-Medium" !important;
 }
-
 .content-img p {
   color: #ffffff;
+  font-size: 17px;
 }
-
 .after-banner-img figure {
   margin: 0;
 }

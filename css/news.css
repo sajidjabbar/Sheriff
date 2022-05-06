@@ -27,12 +27,14 @@
   height: 45px;
   background-color: #ffffff;
 }
-
+.for-search-section input::placeholder {
+  color: #77838f;
+}
 .for-latest-news {
   padding: 48px 0px 115px 0px;
 }
 .for-search-section {
-  width: 88%;
+  width: 100%;
   background-color: #ffffff;
   height: 100%;
 }
@@ -45,20 +47,21 @@
   color: #77838f;
   font-family: "Montserrat-regular";
   padding-left: 20px;
-  font-size: 12px;
+  font-size: 14px;
   width: 100%;
-  box-shadow: 0px 0px 6px 2px #cfcfcf73;
+  box-shadow: 0px 0px 15px 2px #ebebeb;
   border-radius: 4px;
+  border: 1px solid #f7f7f7;
 }
 .for-search-btn {
-  width: 12%;
+  width: 8%;
   height: 100%;
   display: flex;
   background-color: #ffffff;
-  padding-right: 5%;
+  /* padding-right: 5%; */
   align-items: center;
   position: relative;
-  left: -39px;
+  left: -42px;
 }
 .for-search-btn button {
   width: 100%;
